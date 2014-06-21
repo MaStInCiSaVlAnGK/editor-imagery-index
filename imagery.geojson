@@ -33,7 +33,7 @@
             "properties": {
                 "url": "http://igc-grid.tiles.ch.am/{zoom}/{x}/{y}.png", 
                 "type": "tms", 
-                "name": "IGC all maps"
+                "name": "IGC (coordinates)"
             }
         }, 
         {
@@ -68,7 +68,182 @@
             "properties": {
                 "url": "http://igc.tiles.ch.am/{zoom}/{x}/{y}.png", 
                 "type": "tms", 
-                "name": "IGC all maps"
+                "name": "IGC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.2385, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "url": "http://meudon.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "Meudon (tous niveaux)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.2385, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "url": "http://meudon-niv1.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "Meudon (niveau 1)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.2385, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "url": "http://meudon-niv2.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "Meudon (niveau 2)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.2385, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "url": "http://meudon-niv3.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "Meudon (niveau 3)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.2385, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8149
+                        ], 
+                        [
+                            2.2466, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8221
+                        ], 
+                        [
+                            2.2385, 
+                            48.8149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "url": "http://meudon-niv45.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "Meudon (niveau 4-5)"
             }
         }
     ]

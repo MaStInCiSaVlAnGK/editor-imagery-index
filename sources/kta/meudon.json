@@ -1,0 +1,33 @@
+{
+    "id": "MEUDON-FULL",
+    "name": "Meudon (tous niveaux)", 
+    "url": "http://meudon.tiles.ch.am/{zoom}/{x}/{y}.png", 
+    "default": true, 
+    "extent": {
+        "min_zoom": 16,
+        "max_zoom": 30,
+        "polygon": [
+            [
+                [
+                    2.2385,
+                    48.8149
+                ],
+                [
+                    2.2466,
+                    48.8149
+                ],
+                [
+                    2.2466,
+                    48.8221
+                ],
+                [
+                    2.2385,
+                    48.8221
+                ]
+            ]
+        ]
+    }, 
+
+    "type": "tms", 
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAACsAAAArABgHFuLgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJnSURBVEiJtZYxSCNRFEXvmIREhDSCjRAsBAsFWzWNdgELEVEsIgFR0Ayi26ZZBQsRGxEUSZVCrLQVRLSxiY1p06oZTRUjRkHMnG2yw8ZJxGT1wYPP/PvveX/egxlJCkhakZSTxDdlruIZUGXxXcYf85e+ufKPaRmVxZcjHA5rZ2dHwWBQ8Xhcl5eXCoVCLl0+n1ehUJA+q8Dv95NMJkmlUhiGgSQuLi54fHxkc3MT0zQZHx/Htm0+Rjqd/utT27yzs5N0Ou0cGBkZQRLLy8skEgleXl4wTRNJzM/PuyCvr6/1AUNDQ9zf3zvi9fV1DMPA4/EgiUgkwszMDD6fzzkzOztLuVx2ztzd3dUH5PN5AEqlEpOTkwwPD5PNZnl+fiaRSNR9pbFYzIH8o6stzGQy9Pf3s7CwwNvbW9X1BwYG6kKi0Sjn5+e0tbV93gOv18vu7q6reQDb29uNjGrtjePjY5fx1dUVpVKJXC7nTFVTgL6+Ppd5KpUiEAhwcHAAwNra2lch7oemaVaZ7+3tVcEtywLg5OSE9vb2xgGHh4dVgGKxyODgoLPf0dHB2dkZAMlksnHAzc0NABsbG9ze3gLw9PREOBx2NC0tLUxMTNDT09MYIBQKOZX39vbS3d3tQK6vrxuZHjfA5/M501MoFJwmRqNRAB4eHhoGeFUJv9+vo6MjjY6OSpJWV1cFSJLe39/1P0Frayunp6cA2LbN0tJSVRXT09NN30CSWFxcBKBcLjM3N+cSTU1NAWBZVnOArq4u9vf3GRsbqykKBoNkMhm2traaAvzoJ9MjyZYUaaJ3X4nf0g//tvwBNlNMYNpxdPQAAAAASUVORK5CYII="
+}
