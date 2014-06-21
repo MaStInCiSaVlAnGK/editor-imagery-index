@@ -1,6 +1,6 @@
 {
-    "id": "IGC-FULL",
-    "name": "IGC all maps", 
+    "id": "IGC-GRID",
+    "name": "IGC (coordinates)", 
     "url": "http://igc-grid.tiles.ch.am/{zoom}/{x}/{y}.png", 
     "default": true, 
     "overlay": true,

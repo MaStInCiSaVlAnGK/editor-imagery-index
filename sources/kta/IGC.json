@@ -1,6 +1,6 @@
 {
     "id": "IGC-FULL",
-    "name": "IGC all maps", 
+    "name": "IGC", 
     "url": "http://igc.tiles.ch.am/{zoom}/{x}/{y}.png", 
     "default": true, 
     "extent": {
