@@ -69,7 +69,7 @@
         "url": "http://meudon.tiles.ch.am/{zoom}/{x}/{y}.png", 
         "default": true, 
         "extent": {
-            "min_zoom": 16, 
+            "min_zoom": 14, 
             "max_zoom": 30, 
             "polygon": [
                 [
@@ -101,7 +101,7 @@
         "url": "http://meudon-niv1.tiles.ch.am/{zoom}/{x}/{y}.png", 
         "default": true, 
         "extent": {
-            "min_zoom": 16, 
+            "min_zoom": 14, 
             "max_zoom": 30, 
             "polygon": [
                 [
@@ -133,7 +133,7 @@
         "url": "http://meudon-niv2.tiles.ch.am/{zoom}/{x}/{y}.png", 
         "default": true, 
         "extent": {
-            "min_zoom": 16, 
+            "min_zoom": 14, 
             "max_zoom": 30, 
             "polygon": [
                 [
@@ -165,7 +165,7 @@
         "url": "http://meudon-niv3.tiles.ch.am/{zoom}/{x}/{y}.png", 
         "default": true, 
         "extent": {
-            "min_zoom": 16, 
+            "min_zoom": 14, 
             "max_zoom": 30, 
             "polygon": [
                 [
@@ -197,7 +197,7 @@
         "url": "http://meudon-niv45.tiles.ch.am/{zoom}/{x}/{y}.png", 
         "default": true, 
         "extent": {
-            "min_zoom": 16, 
+            "min_zoom": 14, 
             "max_zoom": 30, 
             "polygon": [
                 [
