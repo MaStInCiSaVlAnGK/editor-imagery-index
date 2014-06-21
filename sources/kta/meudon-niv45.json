@@ -4,7 +4,7 @@
     "url": "http://meudon-niv45.tiles.ch.am/{zoom}/{x}/{y}.png", 
     "default": true, 
     "extent": {
-        "min_zoom": 16,
+        "min_zoom": 14,
         "max_zoom": 30,
         "polygon": [
             [
