@@ -43,10 +43,10 @@
     <max-zoom>30</max-zoom>
     <bounds>
       <shape>
-        <point lat="48.8149" lon="2.2385" />
-        <point lat="48.8149" lon="2.2466" />
-        <point lat="48.8221" lon="2.2466" />
-        <point lat="48.8221" lon="2.2385" />
+        <point lat="48.8" lon="2.2" />
+        <point lat="48.8" lon="2.3" />
+        <point lat="48.9" lon="2.3" />
+        <point lat="48.9" lon="2.2" />
       </shape>
     </bounds>
   </entry>
@@ -60,10 +60,10 @@
     <max-zoom>30</max-zoom>
     <bounds>
       <shape>
-        <point lat="48.8149" lon="2.2385" />
-        <point lat="48.8149" lon="2.2466" />
-        <point lat="48.8221" lon="2.2466" />
-        <point lat="48.8221" lon="2.2385" />
+        <point lat="48.8" lon="2.2" />
+        <point lat="48.8" lon="2.3" />
+        <point lat="48.9" lon="2.3" />
+        <point lat="48.9" lon="2.2" />
       </shape>
     </bounds>
   </entry>
@@ -77,10 +77,10 @@
     <max-zoom>30</max-zoom>
     <bounds>
       <shape>
-        <point lat="48.8149" lon="2.2385" />
-        <point lat="48.8149" lon="2.2466" />
-        <point lat="48.8221" lon="2.2466" />
-        <point lat="48.8221" lon="2.2385" />
+        <point lat="48.8" lon="2.2" />
+        <point lat="48.8" lon="2.3" />
+        <point lat="48.9" lon="2.3" />
+        <point lat="48.9" lon="2.2" />
       </shape>
     </bounds>
   </entry>
@@ -94,10 +94,10 @@
     <max-zoom>30</max-zoom>
     <bounds>
       <shape>
-        <point lat="48.8149" lon="2.2385" />
-        <point lat="48.8149" lon="2.2466" />
-        <point lat="48.8221" lon="2.2466" />
-        <point lat="48.8221" lon="2.2385" />
+        <point lat="48.8" lon="2.2" />
+        <point lat="48.8" lon="2.3" />
+        <point lat="48.9" lon="2.3" />
+        <point lat="48.9" lon="2.2" />
       </shape>
     </bounds>
   </entry>
@@ -111,10 +111,10 @@
     <max-zoom>30</max-zoom>
     <bounds>
       <shape>
-        <point lat="48.8149" lon="2.2385" />
-        <point lat="48.8149" lon="2.2466" />
-        <point lat="48.8221" lon="2.2466" />
-        <point lat="48.8221" lon="2.2385" />
+        <point lat="48.8" lon="2.2" />
+        <point lat="48.8" lon="2.3" />
+        <point lat="48.9" lon="2.3" />
+        <point lat="48.9" lon="2.2" />
       </shape>
     </bounds>
   </entry>
