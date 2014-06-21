@@ -31,6 +31,41 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "url": "http://igc-grid.tiles.ch.am/{zoom}/{x}/{y}.png", 
+                "type": "tms", 
+                "name": "IGC all maps"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            2.1484, 
+                            48.743
+                        ], 
+                        [
+                            2.5986, 
+                            48.743
+                        ], 
+                        [
+                            2.5986, 
+                            48.9732
+                        ], 
+                        [
+                            2.1484, 
+                            48.9732
+                        ], 
+                        [
+                            2.1484, 
+                            48.743
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "url": "http://igc.tiles.ch.am/{zoom}/{x}/{y}.png", 
                 "type": "tms", 
                 "name": "IGC all maps"
